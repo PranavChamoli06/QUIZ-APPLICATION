@@ -1,6 +1,5 @@
 # Ignore NetBeans-specific files
 nbproject/private/
-build/
 nbbuild/
 dist/
 nbdist/
