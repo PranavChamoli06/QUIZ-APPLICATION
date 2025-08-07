@@ -1,0 +1,36 @@
+# Ignore NetBeans-specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore IntelliJ IDEA files (in case you ever open it there)
+.idea/
+*.iml
+
+# Ignore temporary files
+*.swp
+*.tmp
+*~
+
+# Ignore user-specific configs
+*.bak
+*.orig
+
+# Ignore generated screenshots (if you don't want to track them)
+# Login_screenshot.png
+# Quiz_screenshot.png
+# Rules_screenshot.png
+# Score_screenshot.png
